@@ -1,5 +1,13 @@
 # React Query and SWR for React Example
 
+## Client
+
+See [`./src`](./src) for client application logic.
+
+## Server
+
+See the [`./server`](./server) directory for documentation.
+
 ----
 
 # Getting Started with Create React App
