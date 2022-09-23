@@ -5,8 +5,8 @@ const App = () => {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>RTK Query App</h1>
-        <p>Kitchen sink use and study of RTK Query.</p>
+        <h1>React Query + React SWR App</h1>
+        <p>Kitchen sink use and study of React Query + React SWR.</p>
       </header>
     </div>
   );
