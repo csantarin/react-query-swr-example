@@ -1,3 +1,5 @@
-import Root from 'app/ui/App';
+import App from './App';
+
+const Root = () => <App />;
 
 export default Root;
